@@ -23,22 +23,29 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c2c39a93-4424-42ca-b08f-4e31e4aaf5b3" />
+
 
 **To measure IL**
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9fb96273-2950-432c-9794-0a4b5adeeeb8" />
 
 
 **To measure RTh or RN**
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8e8527ab-8f54-4501-91c1-d9ab1134c977" />
 
 
 **To measure IN or Isc**
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/77bb31b3-d0ec-41d4-aea5-43d14bc2087f" />
 
  
 **Thevenin’s equivalent circuit**
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/56cae16e-ccba-4477-89a9-8cff1fc8a321" />
 
 **Norton’s equivalent circuit**
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/26e4224b-ca39-4247-a97b-bc0776bfea98" />
 
 **PROCEDURE:**
 
@@ -93,6 +100,8 @@ Vi (volts)	IN (amps)
 Practical value of IL (from tabulation 1) =2.3mA
 
 **Verification of Norton’s theorem**
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/28a00cc3-b971-4df3-abb2-0f28b4bae3fe" />
+
 
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
